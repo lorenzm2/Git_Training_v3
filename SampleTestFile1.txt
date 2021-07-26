@@ -1,1 +1,4 @@
 This is Sample File 1
+
+
+Compare Working Directory & Stage Area	
