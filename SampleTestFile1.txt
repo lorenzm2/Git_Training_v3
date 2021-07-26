@@ -5,3 +5,4 @@ A bunch of random text
 Compare Working Directory & Stage Area	
 This is Comparison lecture
 
+This is a stash lecture, Change
