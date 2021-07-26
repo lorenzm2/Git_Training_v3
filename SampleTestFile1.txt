@@ -1,4 +1,1 @@
 This is Sample File 1
-
-
-Git Revert Test 1
