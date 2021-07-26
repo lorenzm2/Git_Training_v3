@@ -2,3 +2,6 @@ This is Sample File 1
 
 
 A bunch of random text
+Compare Working Directory & Stage Area	
+This is Comparison lecture
+
